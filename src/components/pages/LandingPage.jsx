@@ -1,7 +1,6 @@
-// components/pages/LandingPage.jsx
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
-import '../../services/styles/LandingPage.css'; // Import the CSS
+import '../../styles/LandingPage.css'; // Fixed: removed 'services/' from path
 
 const LandingPage = () => {
   const navigate = useNavigate();
