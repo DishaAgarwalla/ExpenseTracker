@@ -47,6 +47,13 @@ function Register() {
 
   return (
     <div className="auth-container">
+      {/* Back to Home Link */}
+      <div className="back-to-home">
+        <Link to="/" className="back-link">
+          ← Back to Home
+        </Link>
+      </div>
+
       <div className="auth-card">
         <h2>Create Account 🚀</h2>
         <p>Start tracking your expenses today</p>
@@ -83,7 +90,7 @@ function Register() {
               value={password}
               onChange={(e) => setPassword(e.target.value)}
               required
-              placeholder="Create a password"
+              placeholder="Create a password (min. 6 characters)"
             />
           </div>
 
