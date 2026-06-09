@@ -1,4 +1,4 @@
-# 🚀  Expense Tracker
+# 🚀  Expense Tracker 
 
 🌐 **Live Demo:** [View Application](https://expense-tracker-five-sable.vercel.app/)
 
