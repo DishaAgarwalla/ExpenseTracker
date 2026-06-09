@@ -1,7 +1,7 @@
 # 🚀  Expense Tracker 
 
 🌐 **Live Demo:** [View Application](https://expense-tracker-five-sable.vercel.app/)
-
+ 
 A powerful, feature-rich expense tracking application built with React. Perfect for managing personal finances with beautiful visualizations and insights.
 
 ---
